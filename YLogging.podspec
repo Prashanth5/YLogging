@@ -17,4 +17,4 @@ Pod::Spec.new do |s|
           s.source              = { :git => "https://github.com/Prashanth5/YLogging.git", :tag => "1.0.0" }
           #9.
           s.source_files     = "YLoggingFramework", "YLoggingFramework/*.{h,m,swift}"
-    end
+end
